@@ -1,8 +1,6 @@
-﻿// Majority of code by Clinton Flowers, some code by James Tuxbury, support by Adam Liebert
-// Written (Clinton's) sophomore year, Fall 2014 for Applications Programming - CS 3693. 
-// This is my first real C# program, and probably my second non-super-simple program, for what that implies. 
-// Uploading to Github for history/reference; good code not guaranteed; some bad code guaranteed. 
-// Comments may or may not reflect reality. 
+﻿// Code (c) Clinton Flowers. 
+// Written sophomore year, Fall 2014 for Applications Programming - CS 3693. 
+// My first real C# program. Uploading to Github for history/reference; good code not guaranteed; some bad code guaranteed. 
 
 using System;
 using System.Collections.Generic;
