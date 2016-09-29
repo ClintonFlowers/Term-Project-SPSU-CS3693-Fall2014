@@ -1,5 +1,5 @@
 # Term-Project-SPSU-CS3693-Fall2014
-For historical reference. Not production ready by any means.
+For historical reference; not production ready.
 
 
 Majority of code by Clinton Flowers, some code by James Tuxbury, with support from Adam Liebert.
